@@ -11,3 +11,4 @@ GroovyDSL
 
 http://www.slideshare.net/seeyoung/dsl-groovy
 
+녹화된 동영상은 http://www.youtube.com/watch?v=VQSJ2harjoI 에 있습니다. 녹음상태가 좀 아쉽네요.
